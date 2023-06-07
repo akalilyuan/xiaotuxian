@@ -49,3 +49,14 @@ git config --global user.name "LilYuan"
 
  npm install element-plus --save
  npm install -D unplugin-vue-components unplugin-auto-import
+
+ git log
+
+改变element默认主题颜色 sass语言方案
+yuque.com/fechaichai/td99ck/slubxnbeeigegsp5/edit#nz0e9
+
+ npm i sass -D
+
+ npm install axios
+
+ 
