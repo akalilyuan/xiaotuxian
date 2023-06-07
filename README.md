@@ -33,3 +33,19 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### learning file 
+element-plus.gitee.io/zh-CN/guide/quickstart.html#用法
+
+### terminal
+npm install
+npm run dev
+
+git init
+git add .
+git commit -m "init" /...
+git config --global user.email "2507567008@qq.com"
+git config --global user.name "LilYuan" 
+
+ npm install element-plus --save
+ npm install -D unplugin-vue-components unplugin-auto-import
