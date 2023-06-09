@@ -65,4 +65,7 @@ yuque.com/fechaichai/td99ck/slubxnbeeigegsp5/edit#nz0e9
  vueuse
  npm i @vueuse/core
 
+ 安装pinia
+ npm install pinia
+
  
