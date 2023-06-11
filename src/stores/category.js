@@ -10,7 +10,7 @@ const categoryList =ref([])
 //action 获取导航数据方法
 const getCategory = async ()=>{
   const res = await getCategoryAPI()
-  console.log(res)
+  //console.log(res)
   categoryList.value=res.result
 }
 
