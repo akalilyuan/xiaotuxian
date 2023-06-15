@@ -2,7 +2,7 @@
 //VueUse
 import { useScroll } from '@vueuse/core'
 
-import { useCategoryStore } from '@/stores/category';
+import { useCategoryStore } from '@/stores/categoryStore.js';
 const { y } = useScroll(window)
 
 //利用pinia的store实例

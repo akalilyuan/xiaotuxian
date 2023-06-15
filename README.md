@@ -70,3 +70,7 @@ yuque.com/fechaichai/td99ck/slubxnbeeigegsp5/edit#nz0e9
 
  接口文档查看
  https://apifox.com/apidoc/shared-fa9274ac-362e-4905-806b-6135df6aa90e/api-27159659
+
+ 管理pinia永久储存 就是pinia里的 state存在localstorage
+ npm i pinia-plugin-persistedstate
+ https://prazdevs.github.io/pinia-plugin-persistedstate/zh/guide/
